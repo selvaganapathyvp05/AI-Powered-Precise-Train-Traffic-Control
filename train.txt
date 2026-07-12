@@ -14,7 +14,6 @@ Types of Trains:
 - Passenger Train
 - Express Train
 - Superfast Train
-- Freight Train
 - Metro Train
 - High-Speed Train
 
