@@ -12,6 +12,7 @@ Main Components:
 
 Types of Trains:
 - Passenger Train
+- Freight Train
 - Express Train
 - Superfast Train
 - Metro Train
